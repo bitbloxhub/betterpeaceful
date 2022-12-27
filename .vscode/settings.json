@@ -1,0 +1,7 @@
+{
+	"java.configuration.updateBuildConfiguration": "disabled",
+	"yaml.schemas": {
+		"https://json.schemastore.org/bukkit-plugin.json": "file:///mnt/wd-blue-2tb/home/jonahgam/betterpeaceful/src/main/resources/plugin.yml"
+	},
+	"java.compile.nullAnalysis.mode": "automatic"
+}

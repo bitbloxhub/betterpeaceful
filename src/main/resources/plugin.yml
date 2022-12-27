@@ -1,0 +1,4 @@
+name: BetterPeaceful
+version: 1.0.0
+main: betterpeaceful.BetterPeacefulPlugin
+api-version: 1.19
